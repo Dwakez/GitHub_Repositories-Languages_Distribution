@@ -1,0 +1,100 @@
+﻿Country Name,Country Code,Indicator Name,Indicator Code,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015
+Thailand,THA,PISA: 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0,,,,23.80141724,,,23.30566892,,,22.13306266,,,19.13997258,,,24.22362399
+Thailand,THA,PISA: 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1,,,,30.16209857,,,29.69166548,,,30.3940868,,,30.59742042,,,29.55649594
+Thailand,THA,PISA: 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2,,,,25.41521285,,,26.37024591,,,27.29888882,,,27.34053894,,,26.12549879
+Thailand,THA,PISA: 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3,,,,13.65457836,,,13.99716189,,,14.02447155,,,14.50950244,,,13.84792589
+Thailand,THA,PISA: 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4,,,,5.332423438,,,5.299310775,,,4.89103203,,,5.844073926,,,4.814923423
+Thailand,THA,PISA: 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5,,,,1.45139949,,,1.147848554,,,0.97925167,,,2.030072898,,,1.236695599
+Thailand,THA,PISA: 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6,,,,0.182870051,,,0.188098468,,,0.279206465,,,0.538418795,,,0.194836367
+Thailand,THA,PISA: 15-year-olds by reading proficiency level (%). Below Level 1B,LO.PISA.REA.0,,,,,,,,,,1.224682868,,,1.165940145,,,2.825344779
+Thailand,THA,PISA: 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A,26.63944301,,,30.46050138,,,29.04070546,,,31.74467275,,,24.09775253,,,32.1012492
+Thailand,THA,PISA: 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B,,,,,,,,,,9.900102596,,,7.705719708,,,15.05234659
+Thailand,THA,PISA: 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2,36.80156321,,,34.3388098,,,33.43278419,,,36.80984022,,,36.00355795,,,31.09190938
+Thailand,THA,PISA: 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3,20.82177511,,,17.03951065,,,17.44533339,,,16.72161827,,,23.48964406,,,14.96277273
+Thailand,THA,PISA: 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4,4.794613611,,,4.140593572,,,4.228507917,,,3.308133438,,,6.716940135,,,3.650516646
+Thailand,THA,PISA: 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5,0,,,0,,,0,,,0.288137974,,,0.768066451,,,0.313102625
+Thailand,THA,PISA: 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6,0,,,0,,,0,,,0,,,0.052379029,,,0.002758044
+Thailand,THA,PISA: 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0,,,,,,,1,,,2,,,1,,,1.09777419
+Thailand,THA,PISA: 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A,,,,30.89654664,,,33.48759734,,,30.61393605,,,26.61082262,,,33.72682539
+Thailand,THA,PISA: 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B,,,,,,,11,,,11,,,6,,,11.92194985
+Thailand,THA,PISA: 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2,,,,33.87052999,,,33.24050587,,,34.69774223,,,37.51240886,,,32.18151167
+Thailand,THA,PISA: 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3,,,,17.07224269,,,16.28954721,,,17.47007624,,,21.5735417,,,16.00184376
+Thailand,THA,PISA: 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4,,,,5.57660483,,,3.996774518,,,4.414743673,,,6.393681099,,,4.612033876
+Thailand,THA,PISA: 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5,,,,0.96970951,,,0.401486901,,,0.588876291,,,0.863353177,,,0.448350523
+Thailand,THA,PISA: 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6,,,,0,,,0.001273887,,,0.030041221,,,0.057148935,,,0.009710739
+Thailand,THA,PISA: Distribution of Mathematics Scores: 10th Percentile Score,LO.PISA.MAT.P10,332,,,316.26422,,,317.4871475,,,320.7275277,,,328.06512,,,312.9719
+Thailand,THA,PISA: Distribution of Mathematics Scores: 25th Percentile Score,LO.PISA.MAT.P25,378,,,360.52346,,,362.1981617,,,364.7998131,,,371.57658,,,359.6507
+Thailand,THA,PISA: Distribution of Mathematics Scores: 50th Percentile Score,LO.PISA.MAT.P50,432,,,416.9779603,,,417.0726143,,,418.583935,,,426.7374913,,,412.4933
+Thailand,THA,PISA: Distribution of Mathematics Scores: 5th Percentile Score,LO.PISA.MAT.P05,302,,,289.92056,,,288.5574077,,,294.7577504,,,301.73704,,,286.0597
+Thailand,THA,PISA: Distribution of Mathematics Scores: 75th Percentile Score,LO.PISA.MAT.P75,484,,,469.29428,,,469.6915407,,,468.6166069,,,476.4527,,,468.127
+Thailand,THA,PISA: Distribution of Mathematics Scores: 90th Percentile Score,LO.PISA.MAT.P90,539,,,526.04766,,,523.827699,,,522.1296152,,,534.6861,,,521.1792
+Thailand,THA,PISA: Distribution of Mathematics Scores: 95th Percentile Score,LO.PISA.MAT.P95,574,,,560.0405,,,557.8516903,,,553.6298489,,,574.52094,,,554.584
+Thailand,THA,PISA: Distribution of Reading Scores: 10th Percentile Score,LO.PISA.REA.P10,332.524,,,321.7274,,,312.2226073,,,330.7443192,,,340.5268,,,307.7458
+Thailand,THA,PISA: Distribution of Reading Scores: 25th Percentile Score,LO.PISA.REA.P25,380.862,,,366.00898,,,362.6490545,,,372.5502818,,,388.6845,,,353.7014
+Thailand,THA,PISA: Distribution of Reading Scores: 50th Percentile Score,LO.PISA.REA.P50,430.6838733,,,419.9148291,,,416.7517647,,,421.3744142,,,441.2199343,,,407.4623
+Thailand,THA,PISA: Distribution of Reading Scores: 5th Percentile Score,LO.PISA.REA.P05,301,,,293.18958,,,279.8112418,,,305.0510998,,,310.28638,,,281.4991
+Thailand,THA,PISA: Distribution of Reading Scores: 75th Percentile Score,LO.PISA.REA.P75,482.15,,,471.63356,,,472.4805764,,,468.9282858,,,494.28724,,,462.6166
+Thailand,THA,PISA: Distribution of Reading Scores: 90th Percentile Score,LO.PISA.REA.P90,526.19,,,520.272,,,522.2921691,,,513.6490638,,,541.24038,,,513.9836
+Thailand,THA,PISA: Distribution of Reading Scores: 95th Percentile Score,LO.PISA.REA.P95,555,,,549.747,,,549.4812,,,541.7910016,,,568.9683,,,543.3804
+Thailand,THA,PISA: Distribution of Science Scores: 10th Percentile Score,LO.PISA.SCI.P10,343,,,329.25246,,,325.3962432,,,325.848564,,,348.5826,,,324.3027
+Thailand,THA,PISA: Distribution of Science Scores: 25th Percentile Score,LO.PISA.SCI.P25,386,,,373.38982,,,368.4205857,,,372.5848564,,,392.24168,,,365.1357
+Thailand,THA,PISA: Distribution of Science Scores: 50th Percentile Score,LO.PISA.SCI.P50,436.3785367,,,429.0603781,,,421.0114694,,,425.2962849,,,443.9999351,,,416.0545
+Thailand,THA,PISA: Distribution of Science Scores: 5th Percentile Score,LO.PISA.SCI.P05,315,,,302.81722,,,300.0889036,,,296.6430436,,,322.54756,,,301.1196
+Thailand,THA,PISA: Distribution of Science Scores: 75th Percentile Score,LO.PISA.SCI.P75,485,,,480.47434,,,471.3097478,,,477.0234987,,,493.93882,,,472.8942
+Thailand,THA,PISA: Distribution of Science Scores: 90th Percentile Score,LO.PISA.SCI.P90,535,,,536.84888,,,524.2556117,,,527.3032451,,,543.69638,,,527.6366
+Thailand,THA,PISA: Distribution of Science Scores: 95th Percentile Score,LO.PISA.SCI.P95,569,,,570.92786,,,553.5352899,,,559.1010817,,,574.72958,,,559.4224
+Thailand,THA,PISA: Female 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0.FE,,,,22.55301346,,,21.56375633,,,21.72586413,,,16.95360104,,,22.9855489
+Thailand,THA,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1.FE,,,,30.57452586,,,29.76207047,,,31.69880698,,,29.38225945,,,30.10749347
+Thailand,THA,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2.FE,,,,26.13623021,,,27.88487546,,,27.63227592,,,28.86476991,,,26.91426149
+Thailand,THA,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3.FE,,,,13.99232847,,,14.33459082,,,13.38940037,,,15.6674279,,,13.95267466
+Thailand,THA,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4.FE,,,,5.124663569,,,5.321555639,,,4.371404232,,,6.355125577,,,4.685007064
+Thailand,THA,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5.FE,,,,1.449643786,,,1.027148236,,,0.93443434,,,2.211082983,,,1.168452463
+Thailand,THA,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6.FE,,,,0.169594654,,,0.106003046,,,0.247814031,,,0.565733142,,,0.18656195
+Thailand,THA,PISA: Female 15-year-olds by reading proficiency level (%). Below Level 1B,LO.PISA.REA.0.FE,,,,,,,,,,0.440092849,,,0.150070342,,,1.29580337
+Thailand,THA,PISA: Female 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A.FE,21.55195767,,,26.02494979,,,25.4285335,,,27.64731258,,,17.6613238,,,30.86671343
+Thailand,THA,PISA: Female 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B.FE,,,,,,,,,,5.166498399,,,2.865679941,,,10.82456928
+Thailand,THA,PISA: Female 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2.FE,40.42228594,,,39.10097677,,,39.2666665,,,41.35159638,,,37.97810803,,,34.81807821
+Thailand,THA,PISA: Female 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3.FE,25.80213505,,,21.75498099,,,22.04812945,,,20.66300325,,,30.60954683,,,17.50574003
+Thailand,THA,PISA: Female 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4.FE,5.898125565,,,5.262861251,,,5.80583791,,,4.308653067,,,9.520712999,,,4.308303032
+Thailand,THA,PISA: Female 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5.FE,0.603383017,,,0.675659686,,,0,,,0.417888472,,,1.130259618,,,0.380562563
+Thailand,THA,PISA: Female 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6.FE,0,,,0,,,0,,,0,,,0.084298433,,,0.000230091
+Thailand,THA,PISA: Female 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0.FE,,,,,,,1,,,1,,,0,,,0.914475009
+Thailand,THA,PISA: Female 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A.FE,,,,29.92630731,,,32.58366834,,,29.37394006,,,23.96416718,,,33.19192124
+Thailand,THA,PISA: Female 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B.FE,,,,,,,9,,,9,,,5,,,10.45630092
+Thailand,THA,PISA: Female 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2.FE,,,,34.52359489,,,36.3306677,,,36.74297614,,,39.00536162,,,33.45911097
+Thailand,THA,PISA: Female 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3.FE,,,,18.51240597,,,17.34512724,,,18.2965777,,,24.15880982,,,16.86792938
+Thailand,THA,PISA: Female 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4.FE,,,,5.511207272,,,4.111902072,,,4.698226033,,,6.990268724,,,4.616581401
+Thailand,THA,PISA: Female 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5.FE,,,,0.984747477,,,0.355810097,,,0.676467344,,,0.969750692,,,0.487898814
+Thailand,THA,PISA: Female 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6.FE,,,,0,,,0.001559648,,,0.038235337,,,0.061597801,,,0.005782261
+Thailand,THA,PISA: Male 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0.MA,,,,25.32314934,,,25.65574731,,,22.66732795,,,21.92009088,,,25.84190664
+Thailand,THA,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1.MA,,,,29.65937353,,,29.59667952,,,28.68222724,,,32.14257924,,,28.83628943
+Thailand,THA,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2.MA,,,,24.53633433,,,24.32680344,,,26.86146791,,,25.40237686,,,25.09451043
+Thailand,THA,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3.MA,,,,13.24288049,,,13.5419241,,,14.8577174,,,13.03712243,,,13.71100922
+Thailand,THA,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4.MA,,,,5.585670715,,,5.26929941,,,5.57281026,,,5.194237417,,,4.98473654
+Thailand,THA,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5.MA,,,,1.453539592,,,1.310689796,,,1.038054299,,,1.799906415,,,1.325895911
+Thailand,THA,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6.MA,,,,0.199051993,,,0.298856424,,,0.320394941,,,0.503686768,,,0.205651824
+Thailand,THA,PISA: Male 15-year-olds by reading proficiency level (%). Below Level 1B,LO.PISA.REA.0.MA,,,,,,,,,,2.254105074,,,2.45768685,,,4.824601815
+Thailand,THA,PISA: Male 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A.MA,33.90752427,,,35.86718254,,,33.91401959,,,37.12061871,,,32.28210408,,,33.71490564
+Thailand,THA,PISA: Male 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B.MA,,,,,,,,,,16.11083324,,,13.86015545,,,20.57845624
+Thailand,THA,PISA: Male 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2.MA,31.62892778,,,28.53400337,,,25.56207884,,,30.850824,,,33.49278485,,,26.22145004
+Thailand,THA,PISA: Male 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3.MA,13.70673529,,,11.2916247,,,11.23553182,,,11.55031974,,,14.43620933,,,11.63887105
+Thailand,THA,PISA: Male 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4.MA,3.218114809,,,2.772614103,,,2.100473967,,,1.995400548,,,3.151754569,,,2.790726873
+Thailand,THA,PISA: Male 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5.MA,0,,,0,,,0,,,0.117898689,,,0.307513506,,,0.224926029
+Thailand,THA,PISA: Male 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6.MA,0,,,0,,,0,,,0,,,0.011791362,,,0.00606232
+Thailand,THA,PISA: Male 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0.MA,,,,,,,3,,,2,,,1,,,1.337363767
+Thailand,THA,PISA: Male 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A.MA,,,,32.07921233,,,34.70712122,,,32.24087417,,,29.97622281,,,34.42599633
+Thailand,THA,PISA: Male 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B.MA,,,,,,,14,,,13,,,8,,,13.83769331
+Thailand,THA,PISA: Male 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2.MA,,,,33.0744816,,,29.07145479,,,32.01429081,,,35.61401913,,,30.51156708
+Thailand,THA,PISA: Male 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3.MA,,,,15.31676685,,,14.86542533,,,16.38566408,,,18.28619958,,,14.86978694
+Thailand,THA,PISA: Male 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4.MA,,,,5.656320675,,,3.841451696,,,4.042800327,,,5.635079852,,,4.606089826
+Thailand,THA,PISA: Male 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5.MA,,,,0.951379098,,,0.463111159,,,0.473952352,,,0.728061588,,,0.396657121
+Thailand,THA,PISA: Male 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6.MA,,,,0,,,0.000888356,,,0,,,0.051491903,,,0.014845635
+Thailand,THA,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,432,,,416.9779603,,,417.0726143,,,418.583935,,,426.7374913,,,415.4638
+Thailand,THA,PISA: Mean performance on the mathematics scale. Female,LO.PISA.MAT.FE,435,,,418.7877588,,,419.8855742,,,417.0107987,,,432.7173802,,,416.7296649
+Thailand,THA,PISA: Mean performance on the mathematics scale. Male,LO.PISA.MAT.MA,429,,,414.7719205,,,413.2775465,,,420.6479702,,,419.1336608,,,413.8091955
+Thailand,THA,PISA: Mean performance on the reading scale,LO.PISA.REA,430.6838733,,,419.9148291,,,416.7517647,,,421.3744142,,,441.2199343,,,409.1301
+Thailand,THA,PISA: Mean performance on the reading scale. Female,LO.PISA.REA.FE,447.6395304,,,439.167756,,,439.8665491,,,437.655987,,,465.4289405,,,422.5532598
+Thailand,THA,PISA: Mean performance on the reading scale. Male,LO.PISA.REA.MA,406.4606893,,,396.4466233,,,385.5667582,,,400.0121584,,,410.4365565,,,391.584784
+Thailand,THA,PISA: Mean performance on the science scale,LO.PISA.SCI,436.3785367,,,429.0603781,,,421.0114694,,,425.2962849,,,443.9999351,,,421.3373
+Thailand,THA,PISA: Mean performance on the science scale. Female,LO.PISA.SCI.FE,441.6796922,,,432.6747384,,,428.1241186,,,430.9507764,,,452.4914811,,,425.2517986
+Thailand,THA,PISA: Mean performance on the science scale. Male,LO.PISA.SCI.MA,428.6107092,,,424.6546818,,,411.4155325,,,417.8773032,,,433.2023638,,,416.2207376
