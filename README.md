@@ -21,6 +21,9 @@ PISA เลือกประเมินนักเรียนอายุ 15
 #### จุดประสงค์
 นำข้อมูลจาก Dataset มาวิเคราะห์เกี่ยวกับปัจจัยต่างๆ ที่ทำให้คะแนนเพิ่มหรือลด เหตุผลที่เพศชายได้คะแนนมากกว่าเพศหญิงหรือเพศหญิงได้คะแนนมากกว่าเพศชาย เป็นต้น
 ***
+#### ผลลัพธ์
+<img src="CSV graph from Pygal/[Mean Score] - Mathematics.svg"><img src="CSV graph from Pygal/[Mean Score] - Reading.svg"><img src="CSV graph from Pygal/[Mean Score] - Science.svg"><img src="CSV graph from Pygal/[Score Distribution] - Mathematics.svg"><img src="CSV graph from Pygal/[Score Distribution] - Reading.svg"><img src="CSV graph from Pygal/[Score Distribution] - Science.svg">
+***
 #### เครื่องมือที่ใช้ในการวิเคราะห์ข้อมูล
 * Python 3
 * Pandas
