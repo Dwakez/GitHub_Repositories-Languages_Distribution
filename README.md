@@ -9,6 +9,7 @@ This Project is a part of course 06016314 Problem Solving in Information Technol
 |<img src="Proflie/ja.jpg" width="150px" height="150px">|<img src="Proflie/nipnew.jpg" width="150px" height="150px">|<img src="Proflie/don.png" width="150px" height="150px">|<img src="Proflie/pang.jpg" width="150px" height="150px">|
 |:-----:|:-----:|:-----:|:-----:|
 |[Dwakez](https://github.com/Dwakez)|[Chattida](https://github.com/Chattida)|[dorn123](https://github.com/dorn123)|[Khunpanggg](https://github.com/Khunpanggg)|
+### รายชื่อสมาชิก
 61070097  นายนรรณจา โสวรรณ<br/>
 61070029  นางสาวฉัตรธิดา แจ้งใจ<br/>
 60070026  นายดรณ์ นุตเวช<br/>
