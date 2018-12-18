@@ -9,10 +9,10 @@ This Project is a part of course 06016314 Problem Solving in Information Technol
 <table>
 <thead>
 <tr>
-<th align="center"><a target="_blank" rel="noopener noreferrer" href="/Khunpanggg/Thailand-PISA-Score-Performance/blob/master/Profile/ja.jpg"><img src="/Khunpanggg/Thailand-PISA-Score-Performance/raw/master/Profile/ja.jpg" width="150px" height="150px" style="max-width:100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer" href="/Khunpanggg/Thailand-PISA-Score-Performance/blob/master/Profile/nipnew.jpg"><img src="/Khunpanggg/Thailand-PISA-Score-Performance/raw/master/Profile/nipnew.jpg" width="150px" height="150px" style="max-width:100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer" href="/Khunpanggg/Thailand-PISA-Score-Performance/blob/master/Profile/don.png"><img src="/Khunpanggg/Thailand-PISA-Score-Performance/raw/master/Profile/don.png" width="150px" height="150px" style="max-width:100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer" href="/Khunpanggg/Thailand-PISA-Score-Performance/blob/master/Profile/pang.jpg"><img src="/Khunpanggg/Thailand-PISA-Score-Performance/raw/master/Profile/pang.jpg" width="150px" height="150px" style="max-width:100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer" href="/Dwakez/Thailand-PISA-Score-Performance/blob/master/Profile/ja.jpg"><img src="/Dwakez/Thailand-PISA-Score-Performance/raw/master/Profile/ja.jpg" width="150px" height="150px" style="max-width:100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer" href="/Dwakez/Thailand-PISA-Score-Performance/blob/master/Profile/nipnew.jpg"><img src="/Dwakez/Thailand-PISA-Score-Performance/raw/master/Profile/nipnew.jpg" width="150px" height="150px" style="max-width:100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer" href="/Dwakez/Thailand-PISA-Score-Performance/blob/master/Profile/don.png"><img src="/Dwakez/Thailand-PISA-Score-Performance/raw/master/Profile/don.png" width="150px" height="150px" style="max-width:100%;"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer" href="/Dwakez/Thailand-PISA-Score-Performance/blob/master/Profile/pang.jpg"><img src="/Dwakez/Thailand-PISA-Score-Performance/raw/master/Profile/pang.jpg" width="150px" height="150px" style="max-width:100%;"></a></th>
 </tr>
 </thead>
 <tbody>
