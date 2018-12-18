@@ -6,7 +6,7 @@ This Project is a part of course 06016314 Problem Solving in Information Technol
 -coming soon-
 ```
 # Group Member
-|<img src="Profile/sownunja.jpg" width="150px" height="150px">|<img src="Profile/nipnew.jpg" width="150px" height="150px">|<img src="Profile/don.png" width="150px" height="150px">|<img src="Profile/khunpang.jpg" width="150px" height="150px">|
+|<img src="Profile/sownunja.jpg" width="150px" height="150px">|<img src="Profile/nipnew.jpg" width="150px" height="150px">|<img src="Profile/don.png" width="150px" height="150px">|<img src="Profile/pang.jpg" width="150px" height="150px">|
 |:-----:|:-----:|:-----:|:-----:|
 |[Dwakez](https://github.com/Dwakez)|[Chattida](https://github.com/Chattida)|[dorn123](https://github.com/dorn123)|[Khunpanggg](https://github.com/Khunpanggg)|
 ### รายชื่อสมาชิก
