@@ -1,7 +1,7 @@
 # Data Analysis Project
 ## Thailand Education Statistics (PISA score performance)
 This Project is a part of course 06016314 Problem Solving in Information Technology (2018)
-  * Website: https://dwakez.github.io/web
+  * Website: https://dwakez.github.io/PISA
   * Youtube: https://youtu.be/3mlXXMSt8lg
 # Details
 ## Description
